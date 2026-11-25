@@ -1,6 +1,6 @@
-# AI baba
+# Rag Zodiac Engine
 
-AI baba is a Streamlit-based Generative AI mini project that combines:
+Rag Zodiac Engine is a Streamlit-based Generative AI mini project that combines:
 
 - Zodiac sign detection from date of birth
 - PDF-based knowledge ingestion from internet sources
